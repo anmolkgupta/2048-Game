@@ -5,5 +5,5 @@
 **[Live Link](https://anmolkgupta.github.io/2048-Game/)**
 
 # Preview
-![image](https://user-images.githubusercontent.com/64855541/173191648-27d1ea51-6dd8-4aaf-b1f8-26e7c0456033.png)
+![image](https://user-images.githubusercontent.com/112450788/235473292-b691e93f-e7da-4471-83fc-effeff883570.png)
 ![image](https://user-images.githubusercontent.com/64855541/173191653-72ade0f6-9105-476b-8e0b-115162a92481.png)
